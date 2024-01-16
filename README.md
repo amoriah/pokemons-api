@@ -1,6 +1,6 @@
 # pokemons-api
 
- Полноценное SPA приложение с использованием (PublicApi)[https://pokeapi.co/].
+ Полноценное SPA приложение с использованием [PublicApi](https://pokeapi.co/).
 
 Это список покемонов с парочкой фич.
 
